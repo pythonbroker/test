@@ -1,0 +1,7 @@
+Index: test.py
+===================================================================
+--- test.py	(revision fd7fc8a5fd1dffb753bd382ddd88c330585e8f5d)
++++ test.py	(revision fd7fc8a5fd1dffb753bd382ddd88c330585e8f5d)
+@@ -1,1 +0,0 @@
+-print("hello, world")
+\ No newline at end of file
